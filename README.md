@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Alysson 👋
 
 <a href="https://github.com/allymonteiro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=allymonteiro&show_icons=true&theme=radical" />
+  <img width=52% align="center" src="https://github-readme-stats.vercel.app/api?username=allymonteiro&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/allymonteiro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allymonteiro&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allymonteiro&layout=compact&theme=radical&langs_count=8" />
 </a>
 
 ##
