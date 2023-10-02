@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Alysson 👋
 
-<a href="https://github.com/allymonteiro/github-readme-stats">
+<a href="https://github.com/allymonteiro">
   <img width=52% align="center" src="https://github-readme-stats.vercel.app/api?username=allymonteiro&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/allymonteiro/convoychat">
+<a href="https://github.com/allymonteiro">
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allymonteiro&layout=compact&theme=radical&langs_count=8" />
 </a>
 
